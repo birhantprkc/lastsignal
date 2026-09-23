@@ -1,3 +1,5 @@
-# GitHub displays this link in the repository's Sponsor button.
+# Sponsorship and donation options displayed by GitHub's Sponsor button.
+github:
+  - giovantenne
 custom:
   - https://github.com/giovantenne/lastsignal/blob/main/SUPPORT.md

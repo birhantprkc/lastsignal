@@ -304,6 +304,6 @@ LastSignal is not a substitute for a will, trust, power of attorney, or any othe
 
 ## 🧡 Support the Project
 
-If you find **LastSignal** useful, you can support its ongoing maintenance, security reviews, and long-term sustainability with a Bitcoin donation.
+If you find **LastSignal** useful, you can support its ongoing maintenance, security reviews, and long-term sustainability through [GitHub Sponsors](https://github.com/sponsors/giovantenne) or with a Bitcoin donation.
 
 See [SUPPORT.md](SUPPORT.md) for donation details. You can also use the **Sponsor** button at the top of the GitHub repository.
