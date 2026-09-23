@@ -302,11 +302,8 @@ By using this project, you accept full responsibility for configuration, securit
 LastSignal is not a substitute for a will, trust, power of attorney, or any other legal instrument. It is not legally binding and should not be relied upon to transfer rights, property, or obligations. If you need legal certainty, consult a qualified attorney and use appropriate legal documents.
 
 
-## 🧡 Donate
+## 🧡 Support the Project
 
-If you find **LastSignal** useful and want to support its development, you can donate via ₿itcoin:
+If you find **LastSignal** useful, you can support its ongoing maintenance, security reviews, and long-term sustainability with a Bitcoin donation.
 
-`bc1qt6z0e5ttcjx0cnwjdl8mua2srt0lamah5lnnvm`
-
-Donations help support ongoing maintenance, security reviews, and long-term sustainability of the project. 
-Thank you 🙏
+See [SUPPORT.md](SUPPORT.md) for donation details. You can also use the **Sponsor** button at the top of the GitHub repository.
